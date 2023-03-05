@@ -19,7 +19,7 @@ const test = console.log("xxx");
 ```
 
 ## Test Invite-CSS
-Berikut adalah contoh penggunaan button dalam Invite-CSS
+Berikut adalah contoh penggunaan button dalam Invite-CSS<br>
 <button class="inv-button is-danger">Button</button>
 ```html
 <button class="inv-button is-danger">Button</button>
