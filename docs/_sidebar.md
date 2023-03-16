@@ -1,5 +1,5 @@
 - [Introduction]()
-- [Layout System](layout_system/container.md)
+- [Layout System](layout_system/)
   - [Container](layout_system/container.md)
   - [Column](layout_system/column.md)
   - [Banner](layout_system/banner.md)
