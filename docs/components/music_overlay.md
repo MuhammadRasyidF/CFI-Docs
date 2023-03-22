@@ -44,7 +44,7 @@ Untuk memberi background image, anda tinggal menambahkan kode berikut di css cus
 
 Potongan kode `linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5))` berperan untuk membuat background image sedikit lebih gelap, sehingga tulisan diatasnya dapat terbaca dengan lebih baik. Berikut contoh tampilan overlay envelope:
 
-<img src="/asset_images/envelope_overlay.png"/>
+<img src="https://muhammadrasyidf.github.io/CFI-Docs/asset_images/envelope_overlay.png"/>
 
 Untuk memasukan musik, bisa diimplementasikan dengan cara berikut:
 

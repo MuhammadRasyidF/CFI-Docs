@@ -1,4 +1,5 @@
 # Image
+
 Image merupakan komponen yang digunakan untuk menampilkan gambar. Anda dapat mengatur ukuran gambar yang ingin ditampilkan dengan menerapkan pendefinisian class sesuai dengan yang tersedia pada tabel dibawah
 
 <table>
@@ -57,22 +58,27 @@ Image merupakan komponen yang digunakan untuk menampilkan gambar. Anda dapat men
 </table>
 
 **Contoh**
+
 ```html
 <figure class="inv-image is-256x256">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Rangga_Sasana.jpg/330px-Rangga_Sasana.jpg">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Rangga_Sasana.jpg/330px-Rangga_Sasana.jpg"
+  />
 </figure>
 ```
 
 <figure class="inv-image is-256x256">
-  <img src="/asset_images/image.png">
+  <img src="https://muhammadrasyidf.github.io/CFI-Docs/asset_images/image.png">
 </figure>
 
 **Contoh 2**
+
 ```html
 <figure class="inv-image is-256x256">
   <img class="is-rounded" src="https://www.cmu.edu/brand/brand-guidelines/images/colors-carnegie-red-600x600.png"></img>
 </figure>
 ```
+
 <figure class="inv-image is-256x256">
-  <img class="is-rounded" src="/asset_images/image.png"></img>
+  <img class="is-rounded" src="https://muhammadrasyidf.github.io/CFI-Docs/asset_images/image.png"></img>
 </figure>
