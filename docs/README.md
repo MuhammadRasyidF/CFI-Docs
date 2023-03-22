@@ -54,13 +54,13 @@ Contoh Penggunaan dari CDN di atas dinyatakan pada file .html berikut. Anda dapa
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   </head>
   <body>
+    <!-- Taruh body HTML anda disini... -->
   </body>
-    <script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/js/all.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.0.0/dist/js/countdown.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.0.0/dist/js/animation.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.0.0/dist/js/video.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.0.0/dist/js/music_envelope.js"></script>
-  </head>
+  <script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/js/all.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.0.0/dist/js/countdown.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.0.0/dist/js/animation.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.0.0/dist/js/video.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.0.0/dist/js/music_envelope.js"></script>
 </html>
 ```
