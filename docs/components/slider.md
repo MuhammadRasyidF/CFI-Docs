@@ -111,3 +111,7 @@ Pada Javascript anda bisa mengatur banyak image dan interval waktu perpindahan s
     <label for="radio5" class="inv-navigation-btn"></label>
   </div>
 </div>
+
+<script>
+    const slider = new InvSlider(5, 4000);
+</script>
