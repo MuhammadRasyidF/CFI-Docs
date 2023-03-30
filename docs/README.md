@@ -13,16 +13,17 @@ Mulai pembuatan website anda menggunakan CFI dengan mengimpornya melalui link CD
 **CSS**
 
 ```
-https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.0.0/dist/css/style.min.css
+https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.1.0/dist/css/style.min.css
 ```
 
 **JS**
 
 ```
-https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.0.0/dist/js/countdown.js
-https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.0.0/dist/js/animation.js
-https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.0.0/dist/js/video.js
-https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.0.0/dist/js/music_envelope.js
+https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.1.0/dist/js/countdown.js
+https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.1.0/dist/js/animation.js
+https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.1.0/dist/js/video.js
+https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.1.0/dist/js/music_envelope.js
+https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.1.0/dist/js/slider.js
 ```
 
 Untuk menggunakan video container, pastikan anda mengimpor CDN pendukung sebagaimana berikut:
@@ -47,7 +48,7 @@ Contoh Penggunaan dari CDN di atas dinyatakan pada file .html berikut. Anda dapa
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.0.0/dist/css/style.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.1.0/dist/css/style.min.css" />
     <title>CFI</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"/>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
@@ -57,10 +58,11 @@ Contoh Penggunaan dari CDN di atas dinyatakan pada file .html berikut. Anda dapa
   </body>
     <script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/js/all.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.0.0/dist/js/countdown.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.0.0/dist/js/animation.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.0.0/dist/js/video.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.0.0/dist/js/music_envelope.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.1.0/dist/js/countdown.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.1.0/dist/js/animation.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.1.0/dist/js/video.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.1.0/dist/js/music_envelope.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/MuhammadRasyidF/Invite-CSS@2.1.0/dist/js/slider.js"></script>
   </head>
 </html>
 ```

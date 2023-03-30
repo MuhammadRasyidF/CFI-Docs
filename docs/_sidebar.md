@@ -11,6 +11,7 @@
   - [Modal](components/modal.md)
   - [Music Envelop Overlay](components/music_overlay.md)
   - [Video Container](components/video_container.md)
+  - [Slider](components/slider.md)
 - [Form](form/text_input.md)
   - [Text Input](form/text_input.md)
   - [Text Area](form/text_area.md)
