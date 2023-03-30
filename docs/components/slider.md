@@ -66,7 +66,7 @@ Pada Javascript anda bisa mengatur banyak image dan interval waktu perpindahan s
 </script>
 ```
 
-<div class="inv-slider">
+<!-- <div class="inv-slider">
   <div class="inv-slides">
     <input type="radio" name="radio-btn" id="inv-radio1" />
     <input type="radio" name="radio-btn" id="inv-radio2" />
@@ -114,4 +114,4 @@ Pada Javascript anda bisa mengatur banyak image dan interval waktu perpindahan s
 
 <script>
     const slider = new InvSlider(5, 4000);
-</script>
+</script> -->
