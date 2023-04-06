@@ -23,3 +23,14 @@ docsify serve docs
 
 ## Deployment
 1. Folder docs/ adalah folder yang siap di-deploy
+
+### Docker
+1. Build image
+```
+docker build -f Dockerfile -t docsify/cfi docs
+```
+
+2. Run image (image berjalan di port 6969)
+```
+docker run -dp 6969:3000 --name=cfi-docs -v $(pwd):/docs docsify/cfi
+```
