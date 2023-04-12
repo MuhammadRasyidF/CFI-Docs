@@ -26,7 +26,7 @@ Letakan kode ini di paling atas tag body dan pastikan button id untuk tombol buk
     <div class="inv-envelope-date-of-event">10 Juli 2023</div>
     <div class="inv-envelope-attende-wrapper">
       <p>Kepada Yth.<br />Bapak/Ibu/Saudara/i:</p>
-      <div class="inv-envelope-attende-name">Reihan</div>
+      <div class="inv-envelope-attende-name">Simpelin</div>
     </div>
     <button id="open-env" class="btn-open-env">Buka Undangan</button>
   </div>

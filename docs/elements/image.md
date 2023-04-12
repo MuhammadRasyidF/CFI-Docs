@@ -62,13 +62,13 @@ Image merupakan komponen yang digunakan untuk menampilkan gambar. Anda dapat men
 ```html
 <figure class="inv-image is-256x256">
   <img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Rangga_Sasana.jpg/330px-Rangga_Sasana.jpg"
+    src="https://muhammadrasyidf.github.io/CFI-Docs/asset_images/simpelin_bg.png"
   />
 </figure>
 ```
 
 <figure class="inv-image is-256x256">
-  <img src="https://muhammadrasyidf.github.io/CFI-Docs/asset_images/image.png">
+  <img src="https://muhammadrasyidf.github.io/CFI-Docs/asset_images/simpelin_bg.png">
 </figure>
 
 **Contoh 2**

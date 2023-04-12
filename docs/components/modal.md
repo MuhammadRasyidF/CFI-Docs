@@ -16,7 +16,7 @@ Klasik modal overlay, dimana anda dapat memasukkan konten apa saja yang kalian m
   <div class="modal-content">
     <div class="inv-image">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Rangga_Sasana.jpg/330px-Rangga_Sasana.jpg"
+        src="https://muhammadrasyidf.github.io/CFI-Docs/asset_images/simpelin_bg.png"
         alt=""
       />
     </div>
@@ -49,7 +49,7 @@ Klasik modal overlay, dimana anda dapat memasukkan konten apa saja yang kalian m
       <div class="modal-content">
         <div class="inv-image">
           <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Rangga_Sasana.jpg/330px-Rangga_Sasana.jpg"
+            src="https://muhammadrasyidf.github.io/CFI-Docs/asset_images/simpelin_bg.png"
             alt=""
           />
         </div>

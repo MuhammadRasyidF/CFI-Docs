@@ -21,7 +21,7 @@ Terdapat dua ukuran banner yang dapat anda definisikan yang didasarkan pada leba
 <section class="inv-banner banner-halfheight color-red">
   <div class="banner-body">
     <div class="container">
-      <p class="title">Half Height Banner</p>
+      <p class="title" style="font-size:3.5rem">Half Height Banner</p>
       <p class="subtitle">Half Height Subtitle</p>
     </div>
   </div>
@@ -43,7 +43,7 @@ Terdapat dua ukuran banner yang dapat anda definisikan yang didasarkan pada leba
 <section class="inv-banner banner-fullheight color-ltblue">
   <div class="banner-body">
     <div class="container">
-      <p class="title">Full Height Banner</p>
+      <p class="title" style="font-size:3.5rem">Full Height Banner</p>
       <p class="subtitle">Full Height Subtitle</p>
     </div>
   </div>
