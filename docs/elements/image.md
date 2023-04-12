@@ -75,10 +75,10 @@ Image merupakan komponen yang digunakan untuk menampilkan gambar. Anda dapat men
 
 ```html
 <figure class="inv-image is-256x256">
-  <img class="is-rounded" src="https://www.cmu.edu/brand/brand-guidelines/images/colors-carnegie-red-600x600.png"></img>
+  <img class="is-rounded" src="https://muhammadrasyidf.github.io/CFI-Docs/asset_images/simpelin_bg.png"></img>
 </figure>
 ```
 
 <figure class="inv-image is-256x256">
-  <img class="is-rounded" src="https://muhammadrasyidf.github.io/CFI-Docs/asset_images/image.png"></img>
+  <img class="is-rounded" src="https://muhammadrasyidf.github.io/CFI-Docs/asset_images/simpelin_bg.png"></img>
 </figure>
